@@ -7,8 +7,6 @@ This is a simple Python program created for personal use that generates an HTML 
 ## Requirements
 
 - Python 3.9 or higher
-- Libraries: requests, pandas, subprocess, re
-- Bootstrap 5
 - Windows 10 or higher
 
 ## Installation
